@@ -1,8 +1,4 @@
-﻿# Host: localhost  (Version: 5.7.26)
-# Date: 2023-11-22 14:39:33
-# Generator: MySQL-Front 5.3  (Build 4.234)
 
-/*!40101 SET NAMES utf8 */;
 
 #
 # Structure for table "app_use_log"
